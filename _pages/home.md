@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a small but vibrant research group in the [Jacobs school of engineering](https://jacobsschool.ucsd.edu/) at UCSD. We are part of the Center for Precision Genomics located in the [Franklin Antonio Hall](https://fah.ucsd.edu). Our research focus is on genomics. Specifically, we look at complex structural variation in tumor and normal genomes, and analyze lightly sampled genomes from the environment.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
