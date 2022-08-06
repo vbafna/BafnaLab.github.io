@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Bafna Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Bafna Lab at UC San Diego"
 sitemap: false
 permalink: /
 ---
