@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a small but vibrant research group in the [Jacobs school of engineering](https://jacobsschool.ucsd.edu/) at UCSD. We are part of the Center for Precision Genomics located in the [Franklin Antonio Hall](https://fah.ucsd.edu). Our research focus is on genomics. Specifically, we look at complex structural variation in tumor and normal genomes, and analyze lightly sampled genomes from the environment.
+We are a small but vibrant research group in the [Jacobs school of engineering](https://jacobsschool.ucsd.edu/) at UCSD. We are colocated with wonderful collaborators from the Center for Precision Genomics located in the [Franklin Antonio Hall](https://fah.ucsd.edu). Our group studies genomic variation. In recent years, we have looked at extrachromsomal DNA and other complex structural variation in the tumor genome, at variable number tandem repeats, and analyzed lightly sampled genome skims from the environment. See [Research](research) and [Publications](publications).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -55,7 +55,7 @@ We are a small but vibrant research group in the [Jacobs school of engineering](
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
